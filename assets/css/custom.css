@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
 .cover-container{
     height: 80vh !important;
     width: 90em;
@@ -250,3 +256,15 @@
 .feature-title{
     color: #2c86a2 !important;
 }
+
+/* Slider */
+.slick-slide {
+    margin: 0px 20px;
+}
+  
+.logo-carousel {
+    overflow: inherit;
+    border-top: 1px solid #353535;
+    border-bottom: 1px solid #353535;
+}
+  
